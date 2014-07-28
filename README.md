@@ -1,2 +1,2 @@
-docker-clc
+Dockerfiles for Eucalyptus
 ==========
